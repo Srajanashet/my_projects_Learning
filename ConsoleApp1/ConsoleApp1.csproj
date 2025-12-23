@@ -9,8 +9,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="studentManagementSystem\**" />
+    <EmbeddedResource Remove="studentManagementSystem\**" />
+    <None Remove="studentManagementSystem\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Remove="hangmanGame.cs" />
     <Compile Remove="project_play.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Text.Json" Version="10.0.1" />
   </ItemGroup>
 
 </Project>
