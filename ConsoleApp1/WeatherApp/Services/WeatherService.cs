@@ -8,7 +8,7 @@ namespace WeatherApp.Services
     public class WeatherService
     {
         private readonly HttpClient client=new HttpClient();
-        private readonly string apikey = "4c1ab92c3a79a617014742cacbf6882b";
+        private readonly string apikey = "jdhfgh";
 
         public async Task<WeatherApiResponse?> GetWeatherAsync(string city)
         {
