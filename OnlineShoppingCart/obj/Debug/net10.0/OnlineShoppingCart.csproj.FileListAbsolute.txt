@@ -1,0 +1,15 @@
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\bin\Debug\net10.0\OnlineShoppingCart.exe
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\bin\Debug\net10.0\OnlineShoppingCart.deps.json
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\bin\Debug\net10.0\OnlineShoppingCart.runtimeconfig.json
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\bin\Debug\net10.0\OnlineShoppingCart.dll
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\bin\Debug\net10.0\OnlineShoppingCart.pdb
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\obj\Debug\net10.0\OnlineShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\obj\Debug\net10.0\OnlineShoppingCart.AssemblyInfoInputs.cache
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\obj\Debug\net10.0\OnlineShoppingCart.AssemblyInfo.cs
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\obj\Debug\net10.0\OnlineShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\obj\Debug\net10.0\OnlineShoppingCart.sourcelink.json
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\obj\Debug\net10.0\OnlineShoppingCart.dll
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\obj\Debug\net10.0\refint\OnlineShoppingCart.dll
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\obj\Debug\net10.0\OnlineShoppingCart.pdb
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\obj\Debug\net10.0\OnlineShoppingCart.genruntimeconfig.cache
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\OnlineShoppingCart\obj\Debug\net10.0\ref\OnlineShoppingCart.dll
