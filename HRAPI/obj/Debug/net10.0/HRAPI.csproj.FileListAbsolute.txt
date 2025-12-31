@@ -1,0 +1,12 @@
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\HRAPI\bin\Debug\net10.0\HRAPI.deps.json
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\HRAPI\bin\Debug\net10.0\HRAPI.dll
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\HRAPI\bin\Debug\net10.0\HRAPI.pdb
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\HRAPI\obj\Debug\net10.0\HRAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\HRAPI\obj\Debug\net10.0\HRAPI.AssemblyInfoInputs.cache
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\HRAPI\obj\Debug\net10.0\HRAPI.AssemblyInfo.cs
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\HRAPI\obj\Debug\net10.0\HRAPI.csproj.CoreCompileInputs.cache
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\HRAPI\obj\Debug\net10.0\HRAPI.sourcelink.json
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\HRAPI\obj\Debug\net10.0\HRAPI.dll
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\HRAPI\obj\Debug\net10.0\refint\HRAPI.dll
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\HRAPI\obj\Debug\net10.0\HRAPI.pdb
+C:\Users\Srajana Shet\source\repos\my_projects_Learning\HRAPI\obj\Debug\net10.0\ref\HRAPI.dll
